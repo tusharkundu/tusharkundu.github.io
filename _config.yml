@@ -1,14 +1,14 @@
 # Site settings
-title: Vinayak Iyer
-description: Economist/Applied Scientist
-url: 'https://vinayakiyer.github.io'
+title: Tushar Kundu
+description: Economist
+url: 'https://tusharkundu.github.io'
 baseurl: ""
-google_analytics: 'UA-154586808-1'
+google_analytics: 
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Vinayak Iyer'
-  email: vi2137@columbia.edu
+  name: 'Tushar Kundu'
+  email: tk2859@columbia.edu
 
 defaults:
   -
