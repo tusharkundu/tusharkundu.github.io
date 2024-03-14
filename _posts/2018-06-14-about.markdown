@@ -3,9 +3,9 @@ title:  " "
 categories: [jekyll]
 tags: [jekyll]
 ---
-Hi! I am an Applied Scientist/Economist at Uber. I received my PhD in Economics from Columbia University in May 2022. My primary research interests are in the fields of Urban Economics, Applied Micro and Industrial Organization where I use both structural estimation and reduced form methods. 
+Hi! I am a 5th year PhD student in Economics at Columbia University. My primary research interests are in the fields of Development, Education, and Labor. 
 
-Before Columbia, I completed my Masters from Delhi School of Economics in 2015. In my free time, I like playing chess and squash. 
+Before Columbia, I completed my Bachelors degree in economics and math at Swarthmore college in 2017, and worked as a research assistant at USC and the National Bureau of Economic Research. In my free time, I like . 
 
-For more information, please see my <a href="https://vinayakiyer.github.io/files/CV_Vinayak.pdf" target="_blank"><b><font face="Arial" color="#cc0e0e">CV</font></b></a> or contact me at <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#cc0e0e">vi2137@columbia.edu</font></b></a>
+For more information, please see my <a href="https://vinayakiyer.github.io/files/CV_Vinayak.pdf" target="_blank"><b><font face="Arial" color="#cc0e0e">CV</font></b></a> or contact me at <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#cc0e0e">tk2859@columbia.edu</font></b></a>
 
