@@ -7,5 +7,5 @@ Hi! I am a 5th year PhD student in Economics at Columbia University. My primary 
 
 Before Columbia, I completed my Bachelors degree in economics and math at Swarthmore college in 2017, and worked as a research assistant at USC and the National Bureau of Economic Research. In my free time, I like . 
 
-For more information, please see my <a href="https://vinayakiyer.github.io/files/CV_Vinayak.pdf" target="_blank"><b><font face="Arial" color="#cc0e0e">CV</font></b></a> or contact me at <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#cc0e0e">tk2859@columbia.edu</font></b></a>
+For more information, please see my <a href="https://tusharkundu.github.io/files/Tushar Kundu CV 03.15.24.pdf" target="_blank"><b><font face="Arial" color="#cc0e0e">CV</font></b></a> or contact me at <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#cc0e0e">tk2859@columbia.edu</font></b></a>
 

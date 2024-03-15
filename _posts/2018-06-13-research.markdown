@@ -6,50 +6,19 @@ tags: [jekyll]
 
 <h2 id="working-papers"><strong>Research</strong></h2>
 
-<p>My primary fields are Urban Economics, Applied Micro and Industrial Organization.
+<p>My primary fields are Development, Education, and Applied Micro.
 </p>
 
 
-<!--
-<h3 id="job-market-paper">Job Market Paper</h3>
-<ul>
-  <h4><b>What drives efficiency in Ridesharing markets?</b>
-(<a href=" target="_blank"><em>Draft</em></a>)(<a href="" target="_blank"><em>Slides</em></a>)</h4>
-<details><summary>Abstract:</summary><p><font size="2">Abstract here</details>
-</ul>
--->
-<h4 id="working-papers"><strong>Job Market Paper</strong></h4>
-<ul>
-  <p><b><font size="3"><span style="color:#505050;"><strong><a href="{{ site.baseurl }}/files/Iyer_JMP.pdf" style="color:#cc0e0e;" target="_blank">What Drives the Efficiency in Ridesharing Markets? Evidence from Austin, Texas</a></strong></span></font> <font size="2">with <a href="https://motazac.github.io/" style="color:#cc0e0e;" target="_blank">Motaz Al-Chanati</a> </font></b>
-  <br/><font size="2"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959363" style="color:#17202a;">SSRN Link</a></font>
-  <br/><font size="3"><a  style="color:#17202a;">R&R @ American Economic Journal:Microeconomics</a></font></p></ul>
+<h4 id="working-papers"><strong>Job Market Paper</strong></h4> <ul> <p><b><font size="3"><span style="color:#505050;"><strong>Improving Parent-teacher Communication about Student Well-being</strong></span></font></b> <br/>I study the potential of enhancing parent-teacher communication to improve the development of student well-being, focusing on a holistic view of human capital. I conduct an intervention where information on parent preferences regarding the relative importance of various human capital dimensions is systematically provided to teachers across 10 schools in 4 regions across India. I survey parents of elementary, middle, and high school students to gauge their preferences across a comprehensive range of domains covering academic, social, and emotional skills. Concurrently, teachers are surveyed to measure their perceptions about parent preferences and their degree to which their beliefs align with the true parent preferences. I estimate the impact of providing teachers information on student outcomes, teacher beliefs, as well as parent satisfaction. The expectation is that by informing teachers about student needs, proxied by parent preferences, this study could reveal a cost-effective method for nurturing holistic student development, with implications for educational systems looking to integrate non-cognitive skill growth alongside academic learning.</p> </ul> 
 
-<h4 id="working-papers"><strong>Working Papers</strong></h4>
-<ul>
-  <p><b><font size="3"><span style="color:#505050;"><strong><a href="{{ site.baseurl }}/files/HjortIyerDeRochambeau_091121_everything.pdf" style="color:#cc0e0e;" target="_blank">Informational Barriers to Market Access: Experimental Evidence from Liberian Firms</a></strong></span></font> <font size="2">with <a href="https://sites.google.com/site/jonashjort/" style="color:#cc0e0e;" target="_blank">Jonas Hjort</a> and <a href="https://golvine.com/" style="color:#cc0e0e;" target="_blank">Golvine de Rochambeau</a></font></b>
-  <br/><font size="2"><a href="https://www.nber.org/papers/w27662?utm_campaign=ntwh" style="color:#17202a;">NBER WP No 27662</a></font> &ensp;| &ensp;<font size="2"><a style="color:#17202a;">Coverage :</a></font><font size="2"><a href="https://voxeu.org/article/informational-barriers-market-access" style="color:#cc0e0e;">VoXEU</a></font></p></ul>
+<h4 id="working-papers"><strong>Works in Progress</strong></h4> <ul> <p><b><font size="3"><span style="color:#505050;"><strong>What do People Want?</strong></span></font> with Daniel Benjamin, Kristen Cooper, Ori Heffetz, and Miles Kimball</b> <br/>A typical strategy for modeling states of the world, and preferences over them, is to define states based on market goods. However, non-market goods, such as social position, health, and life meaning clearly matter for well-being. In this paper, we focus on a list of 2000 fundamental aspects of well-being that aims to be exhaustive in identifying all final goods that individuals care about. We answer (i) what do people want, (ii) how much to people differ in what they want, and (iii) what drives individual differences in preferences. We survey 5,831 MTurk participants about their levels (current amounts) and preferences over the 2,152 aspects of well-being. We find that people place a high importance on non-market goods. Further, there is significant individual heterogeneity in terms of what people value. Despite individual variation, there is wide agreement across demographics about what is important, with level differences explaining some of the variation in preferences.</p></ul> 
 
-<!--(<a href=".{{ site.baseurl }}/files/Paper2.pdf" target="_blank"><em>Draft</em></a>)-->
-<!---<details><summary>Abstract:</summary><p><font size="2">Evidence suggests that firms in poor countries stagnate because they cannot access
-growth-conducive markets. We hypothesize that overlooked heterogeneity in marketing
-ability distorts market access. To investigate, we gave a random subset of Liberian
-firms vouchers for a week-long program that teaches how to sell to corporations, governments,
-and other large buyers. Firms that participate win about three times as
-many contracts, but only firms with access to the Internet benefit. We use a simple
-model and variation in online and offline demand to show evidence that this is because
-ICT dampens traditional information frictions, but not marketing barriers.</font></p></details>
--->
+<ul> <p><b><font size="3"><span style="color:#505050;"><strong>Bias and Information in Technical Interviews</strong></span></font> with Peter Bergman and Kadeem Noray</b> <br/>Jobs in the technology sector pay well, but there are concerns about demographic representation. In this project, we study one part of the pipeline that may lead to these gaps - the interview process. Specifically, we study the role of interviewer behavior during interviews, and differential interviewee response to feedback using data from an online platform for mock interviews. We find that gender gaps in interviewee performance are larger for male interviewers relative to female interviewers. We supplement the interview data with labor market outcomes from LinkedIn and show that critical interviewers have a positive impact on probability of getting a new job, and working at a high quality (FAAMG) firm.</p></ul> 
 
-    
-<h4 id="work-in-progress"><strong>Work in Progress</strong></h4>
-<ul>
-<p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">How do Electorally Vulnerable Politicians Allocate Effort? Evidence from Canada</a></strong></span></font> <font size="2"> <a style="color:#cc0e0e;"></a> (Preliminary Draft Available on Request) </font></b></p></ul>
-<ul>
-<p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">Valuation of Public Transit and Landlord Market Power : Evidence from NYC</a></strong></span></font> <font size="2">with <a href="https://www.lucashusted.com/home" style="color:#cc0e0e;" target="_blank">Lucas Husted</a> (Preliminary Draft Available on Request) </font></b></p></ul>
-<ul>
-<p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">Transparency and Polarization of Political Speech : Evidence from Canada </a></strong></span></font> <br/> <font size="2">with <a target="_blank">William Labasi Samartino</a> (Preliminary Draft Available on Request) </font></b></p></ul>
+<ul> <p><b><font size="3"><span style="color:#505050;"><strong>Signaling in Female Education</strong></span></font> with Akanksha Vardani</b> <br/>OWe study the role of labor market and marriage market considerations in motivating investment in female education. We replicate previous work contrasting the signaling and human capital accumulation models of educational attainment conducted on a US sample in the developing country contexts of India and Zambia. In India, we find that increased access to secondary school shifts the entire distribution of educational attainment upwards, with more ambiguous effects in Zambia. We extend the analysis to include marriage market considerations, and test to see if shifts in educational attainment depend on marriage payment norms. We find that shifts are attenuated among populations that practice marriage payments.</p></ul> 
 
-<ul>
-<p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">In the Dark : Impact of Streetlight Outages on Crime </a></strong></span></font> <font size="2"> <br/> with <a href="https://econ.uconn.edu/person/michele-baggio/" style="color:#cc0e0e;" target="_blank">Michele Baggio</a>, <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color:#cc0e0e;" target="_blank"> Alberto Chong</a>, <a href="https://nishithprakash.com/" style="color:#cc0e0e;" target="_blank"> Nishith Prakash</a>, <a href="https://anjalipverma.github.io/about/" style="color:#cc0e0e;" target="_blank"> Anjali P. Verma </a> </font></b></p></ul>
+<ul> <p><b><font size="3"><span style="color:#505050;"><strong>Seniority and the Gender Wage Gap</strong></span></font> with DongIk Kang</b> <br/>We study the gender wage gap in South Korea, focusing on the interplay between the prevalent seniority wage structure and gender in compensation.</p></ul> 
 
+<ul> <p><b><font size="3"><span style="color:#505050;"><strong>Empowering Youth with Digital Skills: A Large-Scale Clustered Randomized Intervention in Kenya</strong></span></font> with Palaash Bhargava, Daniel Chen, Tommaso Batistoni, Ken Maina</b> <br/>This study reports on a significant initiative to enhance digital skills among Kenyan youth, evaluating the program's effectiveness through a clustered randomized intervention design.</p></ul>
 
