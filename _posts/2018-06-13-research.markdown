@@ -20,5 +20,5 @@ tags: [jekyll]
 
 <ul> <p><b><font size="3"><span style="color:#505050;"><strong>Seniority and the Gender Wage Gap</strong></span></font> with DongIk Kang</b> <br/>We study the gender wage gap in South Korea, focusing on the interplay between the prevalent seniority wage structure and gender in compensation.</p></ul> 
 
-<ul> <p><b><font size="3"><span style="color:#505050;"><strong>Empowering Youth with Digital Skills: A Large-Scale Clustered Randomized Intervention in Kenya</strong></span></font> with Palaash Bhargava, Daniel Chen, Tommaso Batistoni, Ken Maina</b> <br/>This study reports on a significant initiative to enhance digital skills among Kenyan youth, evaluating the program's effectiveness through a clustered randomized intervention design.</p></ul>
+<ul> <p><b><font size="3"><span style="color:#505050;"><strong>Empowering Youth with Digital Skills: A Large-Scale Clustered Randomized Intervention in Kenya</strong></span></font> with Palaash Bhargava, Daniel Chen, Tommaso Batistoni, Ken Maina</b> <br/></p></ul>
 
