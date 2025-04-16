@@ -7,5 +7,5 @@ Welcome! I am a 6th year PhD student in Economics at Columbia University. My pri
 
 Before Columbia, I completed my Bachelors degree in economics and math at Swarthmore college in 2017, and worked as a research assistant at USC and the NBER. In my free time, I like to bike, climb, and cook the occasional biryani. My simple pleasures include James Acaster, instant coffee (sue me), sunny rooms, and saffron. 
 
-For more information, please see my <a href="{{ site.baseurl }}/files/TK_CV_03.15.24" target="_blank"><b><font face="Arial" color="#cc0e0e">CV</font></b></a> or contact me at <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#cc0e0e">tk2859@columbia.edu</font></b></a>
+For more information, please see my <a href="{{ site.baseurl }}/files/CV_TKundu.pdf" target="_blank"><b><font face="Arial" color="#cc0e0e">CV</font></b></a> or contact me at <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#cc0e0e">tk2859@columbia.edu</font></b></a>
 
