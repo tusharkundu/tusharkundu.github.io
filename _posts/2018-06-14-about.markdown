@@ -3,9 +3,42 @@ title:  " "
 categories: [jekyll]
 tags: [jekyll]
 ---
-Welcome! I am a 6th year PhD student in Economics at Columbia University. My primary research interests are in the fields of Education, Labor, Development, and Gender.
 
-Before Columbia, I completed my Bachelors degree in economics and math at Swarthmore college in 2017, and worked as a research assistant at USC and the NBER. In my free time, I like to bike, climb, and cook the occasional biryani. My simple pleasures include James Acaster, instant coffee (sue me), sunny rooms, and saffron. 
+**Welcome!**
 
-For more information, please see my <a href="{{ site.baseurl }}/files/CV_TKundu.pdf" target="_blank"><b><font face="Arial" color="#cc0e0e">CV</font></b></a> or contact me at <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#cc0e0e">tk2859@columbia.edu</font></b></a>
+**I am a PhD Candidate in Economics at Columbia University, currently on the 2025–2026 job market.**
 
+As an applied microeconomist, I study questions in **education, labor, development, and gender**, with much of my work using experimental and field-based methods.
+
+Before Columbia, I completed my B.A. in Economics and Math at Swarthmore College (2017) and worked as a research assistant at USC and the NBER.  
+
+Outside of research, I enjoy biking, climbing, and cooking the occasional biryani. My simple pleasures include James Acaster, instant coffee (sue me), sunny rooms, and saffron.  
+
+For more information, please see my  
+👉 <a href="{{ site.baseurl }}/files/CV_TKundu.pdf" target="_blank"><b><font face="Arial" color="#cc0e0e">CV</font></b></a>  
+or contact me at  
+👉 <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#cc0e0e">tk2859@columbia.edu</font></b></a>
+
+
+
+### Advisors
+
+- [Eric Verhoogen](https://www.columbia.edu/~ev2124/)  
+  Professor, Department of Economics and School of International and Public Affairs  
+  ✉️ eric.verhoogen@columbia.edu  
+
+- [Cristian (Kiki) Pop-Eleches](https://www.columbia.edu/~cp2124/)  
+  Professor, School of International and Public Affairs, Columbia University  
+  ✉️ cp2124@columbia.edu  
+
+- [Peter Bergman](https://www.learningcollider.org/peter-bergman)  
+  Associate Professor of Economics, University of Texas at Austin
+  ✉️ peterbergman@utexas.edu
+
+- [Alex Eble](https://www.alexeble.com/)  
+  Associate Professor of Economics & Education, Teachers College, Columbia University  
+  ✉️ eble@tc.columbia.edu  
+
+- [Sebastián Otero](https://sebotero.webflow.io/)  
+  Assistant Professor of Economics, Columbia University
+  ✉️ so2699@columbia.edu  
