@@ -12,7 +12,7 @@ As an applied microeconomist, I study questions in **education, labor, developme
 
 Before Columbia, I completed my B.A. in Economics and Math at Swarthmore College (2017) and worked as a research assistant at USC and the NBER.  
 
-Outside of research, I enjoy biking, climbing, and cooking the occasional biryani. My simple pleasures include James Acaster, instant coffee (sue me), sunny rooms, and saffron.  
+Outside of research, I enjoy biking, climbing, and cooking the occasional biryani. My simple pleasures include watching stand up comedy, instant coffee (sue me), sunny rooms, and saffron.  
 
 For more information, please see my  
 👉 <a href="{{ site.baseurl }}/files/CV_TKundu.pdf" target="_blank"><b><font face="Arial" color="#cc0e0e">CV</font></b></a>  
