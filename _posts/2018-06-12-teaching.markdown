@@ -16,7 +16,7 @@ tags: [jekyll]
 <h5 id="undergrad"><strong>Teaching Assistant</strong></h5>
 <ul>
   <li>Introduction to Econometrics (Undergraduate) &middot; <em>Fall 2020, Fall 2021</em> -- (<a href="{{ site.baseurl }}/files/teaching_fall2020.pdf" style="color:#cc0e0e;" target="_blank">Evaluation (Fall, 2020)</a> , <a href="{{ site.baseurl }}/files/teaching_fall2021.pdf" style="color:#cc0e0e;" target="_blank">Evaluation (Fall, 2021)</a>)</li>
-  <li>Intermediate Microeconomics (Undergraduate) &middot; <em>Spring 2022, Fall 2023, Spring 2025</em> -- (<a href="{{ site.baseurl }}/files/teaching_spring2022.pdf" style="color:#cc0e0e;" target="_blank">Evaluation (Spring, 2022)</a> , <a href="{{ site.baseurl }}/files/teaching_fall2023.pdf" style="color:#cc0e0e;" target="_blank">Evaluation (Fall, 2023)</a>)</li>
+  <li>Intermediate Microeconomics (Undergraduate) &middot; <em>Spring 2022, Fall 2023, Spring 2025</em> -- (<a href="{{ site.baseurl }}/files/teaching_spring2022.pdf" style="color:#cc0e0e;" target="_blank">Evaluation (Spring, 2022)</a> , <a href="{{ site.baseurl }}/files/teaching_fall2023.pdf" style="color:#cc0e0e;" target="_blank">Evaluation (Fall, 2023)</a>, <a href="{{ site.baseurl }}/files/teaching_spring2025.pdf" style="color:#cc0e0e;" target="_blank">Evaluation (Spring, 2025)</a>)</li>
   <li>Public Economics (Undergraduate/Graduate) &middot; <em>Fall 2022, Spring 2023</em> -- (<a href="{{ site.baseurl }}/files/teaching_fall2022.pdf" style="color:#cc0e0e;" target="_blank">Evaluation (Fall, 2022)</a> , <a href="{{ site.baseurl }}/files/teaching_spring2023.pdf" style="color:#cc0e0e;" target="_blank">Evaluation (Spring, 2023)</a>)</li>
 </ul>
 
