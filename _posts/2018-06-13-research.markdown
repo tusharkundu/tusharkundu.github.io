@@ -4,28 +4,74 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
+<div class="research-page">
+
 <h2 id="working-papers"><strong>Research</strong></h2>
 
-<p>My primary fields are Education, Development, Labor, and Gender.
-</p>
+<p class="fields-intro">My primary fields are Education, Development, Labor, and Gender.</p>
 
 
-<h4 id="working-papers"><strong>Job Market Paper [Draft forthcoming]</strong></h4> <ul> <p><b><font size="3"><span style="color:#505050;"><strong>Costs or Returns? Why Students Specialize in Cognitive vs Socio-Emotional Skills</strong></span></font></b> <br/>When a student is weak in a given skill, a key question is <em>why</em>: is it primarily because the skill is not valued (low returns), or because it is difficult to learn (high costs)? I develop a model where parents choose inputs to produce skills, balancing costs and returns, while teachers act as production factors that can shift costs. Teachers' ability to maximize student welfare depends on their knowledge of these factors. Guided by the model, I collect data from 3,404 parents and 242 teachers across five Indian private schools. Parents report wide variation in how they value skills, and place higher priority on improving skills in which their child is weakest. Interpreted through the model, this implies that skill profiles are primarily cost-driven rather than return-driven. I collect teacher beliefs about parent priorities, and find that they are largely uncorrelated with truth, suggesting significant information frictions. To test whether correcting these beliefs can shift skill profiles, I conduct a field experiment that randomizes access to a web portal displaying parent-reported levels and priorities. This intervention acts as a production-side shock—allowing teachers to better align classroom production with their student's returns. Consistent with the model, treatment raises levels in the parent's top-ranked skill and lowers its priority rank. By combining theory with experimental evidence, I show how simple measures of levels and priorities can reveal whether profiles are driven by costs or returns, and how this understanding can help policy makers choose levers when supporting weak skills: moving the production frontier when profiles are cost-driven versus shifting perceived returns when they are return-driven.
-</p> </ul> 
+<h4 id="job-market-paper"><strong>Job Market Paper</strong></h4>
+<ul>
+<li>
+<div class="paper-title">Costs or Returns? Why Students Specialize in Cognitive vs Socio-Emotional Skills</div>
+<p class="paper-abstract">When a student is weak in a given skill, a key question is <em>why</em>: is it primarily because the skill is not valued (low returns), or because it is difficult to learn (high costs)? I develop a model where parents choose inputs to produce skills, balancing costs and returns, while teachers act as production factors that can shift costs. Teachers' ability to maximize student welfare depends on their knowledge of these factors. Guided by the model, I collect data from 3,404 parents and 242 teachers across five Indian private schools. Parents report wide variation in how they value skills, and place higher priority on improving skills in which their child is weakest. Interpreted through the model, this implies that skill profiles are primarily cost-driven rather than return-driven. I collect teacher beliefs about parent priorities, and find that they are largely uncorrelated with truth, suggesting significant information frictions. To test whether correcting these beliefs can shift skill profiles, I conduct a field experiment that randomizes access to a web portal displaying parent-reported levels and priorities. This intervention acts as a production-side shock—allowing teachers to better align classroom production with their student's returns. Consistent with the model, treatment raises levels in the parent's top-ranked skill and lowers its priority rank. By combining theory with experimental evidence, I show how simple measures of levels and priorities can reveal whether profiles are driven by costs or returns, and how this understanding can help policy makers choose levers when supporting weak skills: moving the production frontier when profiles are cost-driven versus shifting perceived returns when they are return-driven.</p>
+</li>
+</ul> 
 
-<h4 id="working-papers"><strong>Works in Progress</strong></h4> <ul> <p><b><font size="3"><span style="color:#505050;"><strong><a href="{{ site.baseurl }}/files/w33846.pdf" style="color:#cc0e0e;" target="_blank">What Do People Want?</a></strong></span></font> with Daniel Benjamin, Kristen Cooper, Ori Heffetz, and Miles Kimball</b> <br/>Philosophical perspectives on human desires and values vary; economic theory-driven measurement techniques can provide relevant empirical evidence. We elicited over half a million stated preference choices over 126 dimensions or "aspects" of well-being from a sample of 896 online respondents. We also elicited, via self-reported well-being (SWB) questions, respondents' current levels of the aspects. From the stated preference data, we estimate for each aspect its relative marginal utility per point on our 0-100 response scale. We validate these estimates by comparing them to alternative methods for estimating preferences, and we offer a range of estimates between those that take self-reports at face value and those that (over-)correct for potential social-desirability reporting bias. Our findings suggest that our respondents want, first and foremost, three basic things: family, money, and health (not necessarily in this order). While commonly studied concepts such as happiness, life satisfaction, where life ranks on a ladder, and meaning, are all important, respondents place the highest marginal utilities on aspects related to family well-being and health, and financial freedom and security. We document substantial heterogeneity in preferences across respondents within (but not between) demographic groups, with current SWB levels accounting for a significant portion of the variation.</p></ul> 
+<h4 id="works-in-progress"><strong>Works in Progress</strong></h4>
 
-<ul> <p><b><font size="3"><span style="color:#505050;"><strong>Explainable AI and Human Decision Making: Preferences, Beliefs, and Biases</strong></span></font> with Peter Bergman and Kadeem Noray</b> <br/>Increasingly, AI is being used as a gatekeeper to key areas that affect economic mobility. AI is screening applicants for jobs, loans, healthcare and housing. Generative AI has accelerated this trend; its pre-trained models can readily be deployed across a variety of contexts. However, there are concerns that these models discriminate against protected groups. We construct a model of applicant selection that distinguishes between different forms of discrimination -- taste-based discrimination, statistical discrimination, and biased beliefs -- at the employer or recruiter level. We collect data that allow us to record resume review and hiring outcomes for applicant profiles and overcome the selection issue of observing hiring outcomes only for interviewed applicants. We compare AI decision making to the distribution of human decision makers and use the model to simulate policies such as blinding resume characteristics ("ban the box") and to build non-discriminatory screening algorithms.</p></ul> 
+<ul>
+<li>
+<div class="paper-title"><a href="{{ site.baseurl }}/files/w33846.pdf" target="_blank">What Do People Want?</a></div>
+<div class="paper-authors">with Daniel Benjamin, Kristen Cooper, Ori Heffetz, and Miles Kimball</div>
+<p class="paper-abstract">Philosophical perspectives on human desires and values vary; economic theory-driven measurement techniques can provide relevant empirical evidence. We elicited over half a million stated preference choices over 126 dimensions or "aspects" of well-being from a sample of 896 online respondents. We also elicited, via self-reported well-being (SWB) questions, respondents' current levels of the aspects. From the stated preference data, we estimate for each aspect its relative marginal utility per point on our 0-100 response scale. We validate these estimates by comparing them to alternative methods for estimating preferences, and we offer a range of estimates between those that take self-reports at face value and those that (over-)correct for potential social-desirability reporting bias. Our findings suggest that our respondents want, first and foremost, three basic things: family, money, and health (not necessarily in this order). While commonly studied concepts such as happiness, life satisfaction, where life ranks on a ladder, and meaning, are all important, respondents place the highest marginal utilities on aspects related to family well-being and health, and financial freedom and security. We document substantial heterogeneity in preferences across respondents within (but not between) demographic groups, with current SWB levels accounting for a significant portion of the variation.</p>
+</li>
 
-<ul> <p><b><font size="3"><span style="color:#505050;"><strong>Closing the Last Mile: Norms and Expectations in Women’s Job Uptake</strong></span></font> with Uditi Karna and Akanksha Vardani</b> <br/>We study the ``last-mile'' constraint to female labor force participation (FLFP) among graduates of the Calcutta Foundation’s (CF) vocational programs in Kolkata, India. Low FLFP is a particular puzzle for India, as it remains low despite rising educational rates for women -- a stark contrast to other countries where rising female education has been accompanied by a commensurate increase in FLFP. Our focus is on a select sample of women who do not face well-documented barriers to work, as we survey CF graduates who have completed vocational training, report high willingness and family permission to work, and yet still remain out of the labor force. Our aim is to understand why, focusing on two possible levers: (i) second-order beliefs about community support for women’s work, and (ii) expectations about the costs and benefits of work. We ask: can repeated, public community-engagement events increase job search and employment for women by (i) correcting women’s beliefs about community support for women’s work and/or (ii) correcting misaligned expectations about wages/ job conditions? We propose distinct activities during these events that help disentangle mechanisms, and reveal which lever is more dominant.
-</p></ul>
+<li>
+<div class="paper-title">Explainable AI and Human Decision Making: Preferences, Beliefs, and Biases</div>
+<div class="paper-authors">with Peter Bergman and Kadeem Noray</div>
+<p class="paper-abstract">Increasingly, AI is being used as a gatekeeper to key areas that affect economic mobility. AI is screening applicants for jobs, loans, healthcare and housing. Generative AI has accelerated this trend; its pre-trained models can readily be deployed across a variety of contexts. However, there are concerns that these models discriminate against protected groups. We construct a model of applicant selection that distinguishes between different forms of discrimination -- taste-based discrimination, statistical discrimination, and biased beliefs -- at the employer or recruiter level. We collect data that allow us to record resume review and hiring outcomes for applicant profiles and overcome the selection issue of observing hiring outcomes only for interviewed applicants. We compare AI decision making to the distribution of human decision makers and use the model to simulate policies such as blinding resume characteristics ("ban the box") and to build non-discriminatory screening algorithms.</p>
+</li>
 
-<ul> <p><b><font size="3"><span style="color:#505050;"><strong>Preferences and educational choices of the youth</strong></span></font> with Daniel Carvajal, Ellen Sahlström, Matti Sarvimäki, Mikko Silliman</b> <br/></p></ul>
+<li>
+<div class="paper-title">Closing the Last Mile: Norms and Expectations in Women's Job Uptake</div>
+<div class="paper-authors">with Uditi Karna and Akanksha Vardani</div>
+<p class="paper-abstract">We study the "last-mile" constraint to female labor force participation (FLFP) among graduates of the Calcutta Foundation's (CF) vocational programs in Kolkata, India. Low FLFP is a particular puzzle for India, as it remains low despite rising educational rates for women -- a stark contrast to other countries where rising female education has been accompanied by a commensurate increase in FLFP. Our focus is on a select sample of women who do not face well-documented barriers to work, as we survey CF graduates who have completed vocational training, report high willingness and family permission to work, and yet still remain out of the labor force. Our aim is to understand why, focusing on two possible levers: (i) second-order beliefs about community support for women's work, and (ii) expectations about the costs and benefits of work. We ask: can repeated, public community-engagement events increase job search and employment for women by (i) correcting women's beliefs about community support for women's work and/or (ii) correcting misaligned expectations about wages/ job conditions? We propose distinct activities during these events that help disentangle mechanisms, and reveal which lever is more dominant.</p>
+</li>
 
-<ul> <p><b><font size="3"><span style="color:#505050;"><strong>Well-being in school and academic achievement</strong></span></font> with Daniel Carvajal, Ellen Sahlström, Matti Sarvimäki, Mikko Silliman</b> <br/></p></ul>
+<li>
+<div class="paper-title">Preferences and Educational Choices of the Youth</div>
+<div class="paper-authors">with Daniel Carvajal, Ellen Sahlström, Matti Sarvimäki, Mikko Silliman</div>
+<div class="paper-status">(Pilot and Scoping Ongoing)</div>
+</li>
 
-<ul> <p><b><font size="3"><span style="color:#505050;"><strong>Seniority and the Gender Wage Gap</strong></span></font> with DongIk Kang</b> <br/></p></ul> 
+<li>
+<div class="paper-title">Well-being in School and Academic Achievement</div>
+<div class="paper-authors">with Daniel Carvajal, Ellen Sahlström, Matti Sarvimäki, Mikko Silliman</div>
+<div class="paper-status">(Pilot and Scoping Ongoing)</div>
+</li>
 
-<ul> <p><b><font size="3"><span style="color:#505050;"><strong>Signaling in Female Education</strong></span></font> with Akanksha Vardani</b> <br/></p></ul> 
+<li>
+<div class="paper-title">TeachAIde - Improving Teacher Agency and Student Outcomes through Hypercontextualized Generative AI Chatbots</div>
+<div class="paper-authors">with Palaash Bhargava, Chandraditya Raj, and Tarang Tripathi</div>
+<div class="paper-status">(Pilot and Scoping Ongoing)</div>
+</li>
 
-<ul> <p><b><font size="3"><span style="color:#505050;"><strong>Empowering Youth with Digital Skills: A Large-Scale Clustered Randomized Intervention in Kenya</strong></span></font> with Palaash Bhargava, Daniel Chen, Tommaso Batistoni, Ken Maina</b> <br/></p></ul>
+<li>
+<div class="paper-title">Seniority and the Gender Wage Gap</div>
+<div class="paper-authors">with DongIk Kang</div>
+</li>
+
+<li>
+<div class="paper-title">Signaling in Female Education</div>
+<div class="paper-authors">with Akanksha Vardani</div>
+</li>
+
+<li>
+<div class="paper-title">Empowering Youth with Digital Skills: A Large-Scale Clustered Randomized Intervention in Kenya</div>
+<div class="paper-authors">with Palaash Bhargava, Daniel Chen, Tommaso Batistoni, Ken Maina</div>
+</li>
+</ul>
+
+</div>

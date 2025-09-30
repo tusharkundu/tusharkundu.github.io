@@ -87,3 +87,74 @@ summary:after {
 details[open] summary:after {
   content: "-";
 }
+
+
+/* Research Page Styling */
+
+.research-page {
+  h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+    margin-top: 30px;
+  }
+
+  h4 {
+    color: #34495e;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+
+  .fields-intro {
+    color: #555;
+    margin-bottom: 20px;
+    font-size: 1em;
+  }
+
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+
+    li {
+      margin-bottom: 25px;
+    }
+  }
+
+  .paper-title {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #505050;
+    margin-bottom: 5px;
+    
+    a {
+      color: #cc0e0e;
+      text-decoration: none;
+      
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .paper-authors {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 10px;
+    font-size: 0.95em;
+  }
+
+  .paper-abstract {
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 1.6;
+    color: #333;
+  }
+
+  .paper-status {
+    color: #666;
+    font-style: italic;
+    font-size: 0.9em;
+    margin-top: 5px;
+  }
+}
