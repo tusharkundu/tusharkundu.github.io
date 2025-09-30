@@ -25,3 +25,12 @@ tags: [jekyll]
 <ul>
  <li> Wueller Award for Best T.A. for Undergraduate Electives (Runner Up) &middot; <em>2022-2023</em> </li>
 </ul>
+
+<h5 id="student-feedback"><strong>What Students Say</strong></h5>
+<p>My teaching emphasizes engagement first, building intuition before formalism, and helping students gain the confidence to tackle challenging material. Students have responded positively to this approach:</p>
+<ul>
+  <li><em>“The best TA without a doubt. This course was extremely challenging, yet Tushar was always there to help. His explanations are super clear and his enthusiasm is contagious.”</em> — Intermediate Microeconomics, Fall 2023</li>
+  <li><em>“Tushar was incredible — always available to help or answer questions and good at explaining difficult concepts in a way that is digestible.”</em> — Public Economics, Fall 2022</li>
+  <li><em>“He managed to break down complex ideas into much more relatable segments… very personable, understanding, and informative.”</em> — Public Economics (Instructor), Summer 2023</li>
+  <li><em>“Tushar is amazing! He is the best TA I've had at Columbia. He is patient and always made sure we understood the class content.”</em> — Intermediate Microeconomics, Spring 2022</li>
+</ul>
