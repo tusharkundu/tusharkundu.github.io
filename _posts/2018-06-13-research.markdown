@@ -8,14 +8,14 @@ tags: [jekyll]
 
 <h2 id="working-papers"><strong>Research</strong></h2>
 
-<p class="fields-intro">My primary fields are Education, Development, Labor, and Gender.</p>
+<p class="fields-intro">My primary fields are Development and Labor, with a focus on education.</p>
 
 
 <h4 id="job-market-paper"><strong>Job Market Paper</strong></h4>
 <ul>
 <li>
-<div class="paper-title">Costs or Returns? Why Students Specialize in Cognitive vs Socio-Emotional Skills <span style="font-size: 0.9em; color: #666; font-style: italic;">[Draft Forthcoming]</span></div>
-<p class="paper-abstract">When a student is weak in a given skill, a key question is <em>why</em>: is it mainly because the skill is hard to learn (costs), or because it is less valued (returns)? I develop a model in which parents choose inputs to produce skills while teachers operate on the production side by reducing learning costs (materials, time, pedagogy). Teachers' ability to maximize student welfare depends on their beliefs about what students and parents value, yet I show these beliefs are often imperfect due to information frictions. Guided by the model, I collect data from 3,404 parents and 242 teachers in five Indian private schools. Parents report wide variation in what they value and, on average, prioritize improvement where their child is weakest&mdash;suggesting that observed specialization is primarily cost-driven rather than return-driven. I elicit teachers' beliefs about parent priorities and find little alignment with parents' views. To address this, I conduct a field experiment randomizing teacher access to a web portal showing parent-reported priorities and student levels. Treated teachers become about 10 percentage points more accurate about average class priorities. The intervention changes relative skill development: when baseline beliefs were most misaligned, treated students gain more in parent-prioritized skills, and parents subsequently place less importance on further improvement in those skills. Together, the model and experiment show how simple measures of student levels and priorities can diagnose whether costs or returns drive specialization and guide policy: reduce learning costs when student profiles are cost-driven; shift incentives or perceived returns when they are return-driven.</p>
+<div class="paper-title">Costs or Benefits? Why Students Specialize in Cognitive vs Socio-Emotional Skills <span style="font-size: 0.9em; color: #666; font-style: italic;">[Draft Forthcoming]</span></div>
+<p class="paper-abstract">I combine a field experiment in India with a structural model of multidimensional skill development to study why students specialize in different skills. When a student specializes, is it mainly because they find that skill easy to learn (costs) or because it provides them more value (benefits)? The answer has important implications for teachers and policy-makers aiming to maximize student welfare by promoting growth in skills each student benefits from most. I focus on parents as the primary decision-makers for their child's skill development with full information about production costs and benefits to their child. Teachers allocate effort towards reducing costs of skill production, but have imperfect information about how benefits vary across students. In five private schools across India, I survey 3404 parents to collect perceptions of their child's skill levels and a ranking of what skills each parent most wants to improve. Parents report wide variation in what they value, and on average, prioritize improvement where their child is weakest. Through the lens of the model, this suggests students specialize in skills they find easier to learn. I elicit teachers' beliefs about parent priorities and find little alignment with parents' views. To address this, I conduct a classroom-level experiment randomly providing teachers access to structured information about parent priorities. Treated teachers become more accurate about average class priorities by about 10 percentage points. Treatment increases student specialization in parent-prioritized skills, with the largest effects for students where teacher beliefs were most inaccurate. Together, the model and experiment show how simple measures of student levels and parental priorities can provide a powerful lever for personalizing education based on what skills are valuable to each student.</p>
 </li>
 </ul> 
 
@@ -44,12 +44,18 @@ tags: [jekyll]
 <div class="paper-title">Preferences and Educational Choices of the Youth</div>
 <div class="paper-authors">with Daniel Carvajal, Ellen Sahlström, Matti Sarvimäki, Mikko Silliman</div>
 <div class="paper-status">(Pilot and Scoping Ongoing)</div>
+<p class="paper-abstract">
+We study how youths’ preferences over life outcomes—e.g., financial gains, social status, health—relate to educational choices and gaps across demographic groups. We elicit preferences via a hypothetical choice task adapted from a stated-preference framework (Benjamin <em>et al.</em>, 2025), link them to registry data, and analyze (i) how preferences vary by gender and migration background and map to actual choices, and (ii) how peer composition and network homophily shape preferences, validating patterns in culturally polarized classrooms (Anderberg <em>et al.</em>, 2025).
+</p>
 </li>
 
 <li>
 <div class="paper-title">Well-being in School and Academic Achievement</div>
 <div class="paper-authors">with Daniel Carvajal, Ellen Sahlström, Matti Sarvimäki, Mikko Silliman</div>
 <div class="paper-status">(Pilot and Scoping Ongoing)</div>
+  <p class="paper-abstract">
+    We examine how students’ subjective well-being relates to grades. We construct a multidimensional well-being index combining self-reports with stated preferences over key life aspects (Benjamin <em>et al.</em>, 2017; Benjamin <em>et al.</em>, 2025). Using linked registry data, we (i) characterize well-being distributions and associations with achievement—especially for minority and disadvantaged students—and (ii) leverage unexpected family shocks (e.g., labor-market or health shocks) to quantify the well-being channel in academic outcomes.
+  </p>
 </li>
 
 <li>
@@ -58,20 +64,5 @@ tags: [jekyll]
 <div class="paper-status">(Pilot and Scoping Ongoing)</div>
 </li>
 
-<li>
-<div class="paper-title">Seniority and the Gender Wage Gap</div>
-<div class="paper-authors">with DongIk Kang</div>
-</li>
-
-<li>
-<div class="paper-title">Signaling in Female Education</div>
-<div class="paper-authors">with Akanksha Vardani</div>
-</li>
-
-<li>
-<div class="paper-title">Empowering Youth with Digital Skills: A Large-Scale Clustered Randomized Intervention in Kenya</div>
-<div class="paper-authors">with Palaash Bhargava, Daniel Chen, Tommaso Batistoni, Ken Maina</div>
-</li>
-</ul>
 
 </div>

@@ -8,7 +8,7 @@ tags: [jekyll]
 
 **I am a PhD Candidate in Economics at Columbia University, currently on the 2025–2026 job market.**
 
-As an applied microeconomist, I study questions in **education, labor, development, and gender**, with much of my work using experimental and field-based methods.
+As an applied microeconomist, I study questions in **development, labor, and education**, with much of my work using experimental and field-based methods.
 
 Before Columbia, I completed my B.A. in Economics and Math at Swarthmore College (2017) and worked as a research assistant at USC and the NBER.  
 
