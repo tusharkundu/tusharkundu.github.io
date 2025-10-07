@@ -63,6 +63,3 @@ We study how youths’ preferences over life outcomes—e.g., financial gains, s
 <div class="paper-authors">with Palaash Bhargava, Chandraditya Raj, and Tarang Tripathi</div>
 <div class="paper-status">(Pilot and Scoping Ongoing)</div>
 </li>
-
-
-</div>
