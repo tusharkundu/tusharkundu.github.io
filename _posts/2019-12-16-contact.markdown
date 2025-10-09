@@ -1,7 +1,7 @@
 ---
-title:  ""
-categories: [jekyll]
-tags: [jekyll]
+#title:  ""
+#categories: [jekyll]
+#tags: [jekyll]
 ---
 <h2 id="columbia-university"><strong>Contact</strong></h2>
 <br>

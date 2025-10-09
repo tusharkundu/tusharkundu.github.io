@@ -10,6 +10,7 @@ author:
   name: 'Tushar Kundu'
   email: tk2859@columbia.edu
 
+
 defaults:
   -
     scope:
@@ -39,4 +40,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', '_posts/2019-12-16-contact.markdown']
