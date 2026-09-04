@@ -7,6 +7,6 @@
 <br>
 Tushar Kundu
 
-<strong>Mailing Address:</strong><br/> 420 W 118th Street, Department of Economics, Columbia University, NY - 10027  
-<br/>
+<strong>Location:</strong> Alameda, California
+
 <strong>Email:</strong> <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#cc0e0e">tk2859@columbia.edu</font></b></a>

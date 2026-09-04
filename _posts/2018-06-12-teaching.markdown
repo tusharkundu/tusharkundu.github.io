@@ -1,5 +1,7 @@
 ---
 title:  " "
+meta_title: "Teaching | Tushar Kundu"
+meta_description: "Courses taught by Tushar Kundu at Columbia University, teaching evaluations, awards, and student feedback."
 categories: [jekyll]
 tags: [jekyll]
 ---

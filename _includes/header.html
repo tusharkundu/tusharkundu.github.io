@@ -9,7 +9,7 @@
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
         <a href="{{ site.baseurl }}/" title="link to home of {{ site.title }}">
-          <img src="{{ site.baseurl }}/images/pic17.jpg" class="user-image" alt="My Profile Photo">
+          <img src="{{ site.baseurl }}/images/pic17.jpg" class="user-image" alt="Portrait of Tushar Kundu">
           <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
         </a>
         <hr class="panel-cover__divider">
@@ -20,17 +20,17 @@
 
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/about" title="link to {{ site.title }} blog" class="blog-button">About</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/about" title="About {{ site.title }}" class="blog-button">About</a></li>
             </ul>
            
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/research" title="link to {{ site.title }} blog" class="blog-button">Research</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/research" title="Research by {{ site.title }}" class="blog-button">Research</a></li>
             </ul>
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/teaching" title="link to {{ site.title }} blog" class="blog-button">Teaching</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/teaching" title="Teaching by {{ site.title }}" class="blog-button">Teaching</a></li>
             </ul>
              <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/files/CV_TKundu.pdf" class="blog-button">CV</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/files/Resume_Tushar_Kundu.pdf" title="Resume of {{ site.title }}" class="blog-button" target="_blank" rel="noopener noreferrer">Resume</a></li>
             </ul>
           </nav>
           
@@ -42,7 +42,7 @@
             {% if site.author.email %}
               <!-- Email -->
               <li class="navigation__item">
-                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
+                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}">
                   <i class="icon icon-mail" style="font-size:24px" ></i>
                   <span class="label">Email</span>
                 </a>
@@ -51,16 +51,15 @@
 
                <!-- Twitter -->
 
-              <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
               <li class="navigation__item">
-                <a href="https://twitter.com/tushardonnay" title="Twitter : tushardonnay" target="_blank">
+                <a href="https://twitter.com/tushardonnay" title="Tushar Kundu on Twitter" target="_blank" rel="noopener noreferrer">
                  <i class="fa fa-twitter" style="font-size:24px" aria-hidden="true"></i>
                   <span class="label">Twitter</span>
                 </a>
               </li>
               
               <li class="navigation__item">
-                <a href="https://github.com/tusharkundu" title="Github" target="_blank">
+                <a href="https://github.com/tusharkundu" title="Tushar Kundu on GitHub" target="_blank" rel="noopener noreferrer">
                  <i class="fa fa-github" style="font-size:24px" aria-hidden="true"></i>
                   <span class="label">Github</span>
                 </a>
